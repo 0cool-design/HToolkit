@@ -1,0 +1,1 @@
+CREATEOBJECT("SAPI.SpVoice").Speak"welcome TO H Toolkit made by Hamoud el-salmani"
